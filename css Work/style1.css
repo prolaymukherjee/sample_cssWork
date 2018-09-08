@@ -1,0 +1,53 @@
+#box{
+	 width: 1000px;
+     height: 950px;
+     border: 1px solid red;
+	 background:#ccc;
+	
+}
+.out{
+	 width: 400px;
+     height: 200px;
+     outline: 10px double red;
+     background: orange;
+	 margin-left:40px;
+	
+}
+.bor{
+	 width: 400px;
+     height: 200px;
+     outline: 10px double yellow;
+     background:blue;
+	 margin-top:30px;
+	 margin-left:40px;
+	
+}
+.marpad{
+	 width: 400px;
+     height: 250px;
+     background: green;
+     border: 5px solid gray;
+     margin-left: 20px;
+	
+}
+.inside{
+	width: 400px;
+    height: 200px;
+    border: 2px solid orange;
+    background: greenyellow;
+	
+	 float:left;
+	
+}
+.inside1{
+	width: 300px;
+    height: 200px;
+     border: 3px solid orange;
+     background: greenyellow;
+	float:right;
+	 
+	 
+	 
+
+}
+
